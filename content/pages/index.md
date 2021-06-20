@@ -58,7 +58,7 @@ sections:
     title: My Articles
     subtitle: What I do
     features:
-      - title: Content Creation
+      - title: Technology
         subtitle: 'Website, blog, social media and more.'
         content: >-
           I will handle content writing for your digital assets, from
