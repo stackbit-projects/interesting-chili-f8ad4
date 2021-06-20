@@ -5,7 +5,7 @@
     "style": "bold",
     "palette": "red",
     "mode": "light",
-    "base_font": "serif",
+    "base_font": "sans-serif",
     "header": {
         "title": "Personal",
         "logo": "/images/Plain logo (2).png",
