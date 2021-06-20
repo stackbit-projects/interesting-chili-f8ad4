@@ -56,7 +56,6 @@ sections:
     grid_gap_vert: medium
   - type: features_section
     title: My Articles
-    subtitle: What I do
     features:
       - title: Technology
         subtitle: 'Computing, tech reviews and more'
