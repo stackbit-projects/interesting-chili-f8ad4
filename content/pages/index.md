@@ -7,7 +7,7 @@ sections:
       A Year 12 student at Wilson's School. I am a maths and technology
       enthusiast who loves learning.
     actions:
-      - label: About Me
+      - label: More About Me
         url: /contact
         style: primary
     image: /images/kind-cabbage.jpg
