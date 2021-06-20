@@ -5,7 +5,7 @@ sections:
     title: 'Hi, I’m Alex Wang...'
     subtitle: >-
       A Year 12 student at Wilson's School. I am a maths and technology
-      enthusiast.
+      enthusiast who loves learning about
     actions:
       - label: About Me
         url: /contact
