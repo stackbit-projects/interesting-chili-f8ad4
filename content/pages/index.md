@@ -75,10 +75,8 @@ sections:
         media_width: sixty
       - title: Mathematics
         subtitle: Maths outside the curriculum
-        content: >-
-          Managing an online business is a full-time job. I will make sure your
-          products look great, sound great, and sell more on your choice of
-          ecommerce platform.
+        content: |
+          Mathematical topics explained with interesting puzzles and solutions
         actions:
           - label: Learn More
             url: /about
