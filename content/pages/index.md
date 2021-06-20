@@ -75,6 +75,7 @@ sections:
     feature_padding_vert: large
     align: center
     background_color: none
+    section_id: /articles
   - type: grid_section
     title: Testimonials
     subtitle: What My Clients Say
