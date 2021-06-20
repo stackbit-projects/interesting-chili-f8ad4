@@ -65,7 +65,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-        image: /images/square-basil.jpg
+        image: /images/Programming guy.jpg
         image_alt: Feature 3 illustration
         media_position: right
         media_width: sixty
