@@ -60,7 +60,7 @@ sections:
         subtitle: Detailed reports
         content: >
           Walk-throughs of my previous projects with detailed explanations of
-          the execution. Become inspired and gain insight.
+          the execution. Gain insight and become inspired.
         actions:
           - label: See Past Work
             url: /faq
