@@ -76,17 +76,12 @@ sections:
   - type: grid_section
     grid_items:
       - title_align: left
-        content: >-
-          ## Lorem ipsum
+        content: >
+          ## Personal Blog
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          Check out my personal blog for an insight into my life outside school.
+          Articles on music, cooking and travel
         content_align: left
         actions: []
         actions_align: left
