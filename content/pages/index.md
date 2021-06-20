@@ -76,12 +76,9 @@ sections:
   - type: grid_section
     title: Testimonials
     grid_items:
-      - content: >-
-          I love it when a content writer can really wordsmith and create copy
-          that suits the design intention and style!
-
-
-          **Gordon Norman,** *Web Designer, Local Business*
+      - content: >
+          *Check out my personal blog for articles about cooking, music and
+          travel*
         image_position: left
         image_width: twenty-five
     grid_cols: two
