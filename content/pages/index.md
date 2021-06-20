@@ -76,11 +76,6 @@ sections:
   - type: grid_section
     title: Testimonials
     grid_items:
-      - content: >
-          *Check out my personal blog for articles about cooking, music and
-          travel*
-        image_position: left
-        image_width: twenty-five
       - title: lorem-ipsum
         subtitle: lorem-ipsum
         title_align: left
