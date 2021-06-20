@@ -8,7 +8,7 @@ sections:
       - label: Contact Me
         url: /contact
         style: primary
-    image: /images/Me and Uncle Roger 24 05 21.jpg
+    image: /images/kind-cabbage.jpg
     image_alt: A smiling woman
     media_position: right
     media_width: fifty
