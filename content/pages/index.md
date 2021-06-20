@@ -57,7 +57,6 @@ sections:
         media_position: right
         media_width: sixty
       - title: My Projects and Experience
-        subtitle: Detailed reports
         content: >
           Walk-throughs of my previous projects with detailed explanations of
           the execution. Gain insight and become inspired.
