@@ -57,8 +57,7 @@ sections:
       - title: My Projects and Experience
         content: >
           Walk-throughs of my previous academic projects and experiences with
-          detailed explanations of my execution. Gain insight and become
-          inspired.
+          detailed explanations.
         actions:
           - label: See Past Work
             url: /faq
