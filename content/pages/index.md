@@ -63,7 +63,7 @@ sections:
           Articles following recent trends in the technology industry as well as
           explaining fundamental computer science principles.
         actions:
-          - label: See Writing Samples
+          - label: View articles
             url: /faq
             style: primary
             has_icon: true
