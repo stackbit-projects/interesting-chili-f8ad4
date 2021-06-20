@@ -95,17 +95,6 @@
                 "icon": "instagram",
                 "icon_position": "center",
                 "new_window": true
-            },
-            {
-                "label": "lorem-ipsum",
-                "url": "#",
-                "style": "link",
-                "has_icon": true,
-                "icon": "arrow-left",
-                "icon_position": "right",
-                "new_window": false,
-                "no_follow": false,
-                "type": "action"
             }
         ],
         "content": "&copy; Alex Wang 2021. All rights reserved.",
