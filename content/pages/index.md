@@ -5,7 +5,7 @@ sections:
     title: 'Hi, I’m Alex Wang.'
     subtitle: I am a Year 12 student at Wilson's School.
     actions:
-      - label: Contact Me
+      - label: About Me
         url: /contact
         style: primary
     image: /images/kind-cabbage.jpg
