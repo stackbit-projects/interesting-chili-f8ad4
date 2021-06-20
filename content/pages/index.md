@@ -54,7 +54,7 @@ sections:
         image_alt: Feature 2 illustration
         media_position: right
         media_width: sixty
-      - title: My Projects and Experience
+      - title: My Projects and Experiences
         content: >
           Walk-throughs of my previous academic projects and experiences with
           detailed explanations.
