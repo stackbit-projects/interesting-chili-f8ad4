@@ -59,7 +59,7 @@ sections:
     subtitle: What I do
     features:
       - title: Technology
-        subtitle: 'Computer science,'
+        subtitle: 'Computing, tech reviews and more'
         content: >-
           I will handle content writing for your digital assets, from
           newsletters and emails, to Facebook and Google campaigns, whitepapers,
