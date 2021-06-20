@@ -42,7 +42,6 @@ sections:
         media_position: right
         media_width: sixty
       - title: Mathematics
-        subtitle: Maths outside the curriculum
         content: |
           Mathematical topics explained with interesting puzzles and solutions.
         actions:
