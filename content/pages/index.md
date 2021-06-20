@@ -112,17 +112,16 @@ sections:
         image_has_padding: false
         type: grid_item
       - title_align: left
-        content: >-
-          ## Lorem ipsum
+        content: >
+          ## The Philomath Club
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          The Philomath Club is a community for students who love learning and
+          increasing their knowledge of mathematics, computer science and
+          engineering. We provide free curriculum-linked resources of a Post-16
+          level to help with exams, extra-curricular competitions and university
+          admissions.
         content_align: left
         actions: []
         actions_align: left
