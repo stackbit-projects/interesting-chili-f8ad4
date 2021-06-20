@@ -56,7 +56,7 @@ sections:
         image_alt: Feature 2 illustration
         media_position: right
         media_width: sixty
-      - title: My Projects
+      - title: My Projects and Experience
         subtitle: Detailed reports
         content: >
           Walk-throughs of my previous projects with detailed explanations of
