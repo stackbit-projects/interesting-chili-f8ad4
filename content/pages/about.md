@@ -28,19 +28,18 @@ seo:
       relativeUrl: true
 layout: page
 ---
-
 ![A woman using a laptop](/images/about.jpg)
 
-The only thing I love more than writing is the process of meeting a new client and figuring out together what needs to be written. Working on a freelance consulting basis exposes me to many types of companies with varied goals and methodologies, and keeps me up to date with all marketing tools and platforms.
+Hi, I'm Alex Wang, a Sixth Form student at Wilson's School, South London. I am approaching my final years of secondary education and will be applying to university soon. I created this website to share tips about studying and to help other students in my situation to succeed academically. I will be posting regular articles on technology and maths, as well as providing exclusive insight into my projects and experiences.
 
 ## Credentials
 
-I have a BA in English Literature and an MBA in Marketing from the University of California. I am also a certified campaign manager in all the major PPC platforms, and a staff writer in several industry publications.
+I have full secondary education from Wilson's School, with 12 GCSE's.
 
-My 20 years of experience have taught me to effectively identify the audience for which I write, and explain complex concepts in a friendly and non-intimidating way.
+My experience of privately tutoring maths and English has taught me to explain complex concepts in a friendly and non-intimidating way. I tutor students from ages 10-16 in the UK and China.
 
+## My Interests
 
+I am a keen mathematician. I enjoy taking part in UKMT math competitions. In the past 3 years, I have qualified for all 3 UKMT Math Olympiads. In 2021-2022 I will be participating in many more maths and computer science competitions. My aspiration is to study maths or computer science at Oxbridge. 
 
-## Writing for Action
-
-I believe that each and every piece of writing should inspire an action that is connected to a tangible business goal. I will work with you to define our content KPIs, understand how to properly track and measure them, and hit our goals by creating effective messaging across all of your digital assets.
+Outside of school, I enjoy cooking, music and exploring nature. I am classically trained in violin and piano, having reached ABRSM Grade 8 in both instruments. To relax, I often explore my local parks and countryside by bike. 
