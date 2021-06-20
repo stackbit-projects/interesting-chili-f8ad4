@@ -74,7 +74,7 @@ sections:
     background_color: none
     section_id: /articles
   - type: grid_section
-    title: Testimonials
+    title: =
     grid_items:
       - title: lorem-ipsum
         subtitle: lorem-ipsum
