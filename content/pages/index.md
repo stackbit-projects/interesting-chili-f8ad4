@@ -94,17 +94,13 @@ sections:
         image_has_padding: false
         type: grid_item
       - title_align: left
-        content: >-
-          ## Lorem ipsum
+        content: >
+          ## Tuition
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          I offer Maths and English tuition for students in KS2, KS3 and KS4. I
+          have helped numerous students prepare for 11+ and 13+ exams as well as
+          UKMT challenges. Check out my page for more details.
         content_align: left
         actions: []
         actions_align: left
