@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Technology Articles
 seo:
   title: ''
   description: ''
