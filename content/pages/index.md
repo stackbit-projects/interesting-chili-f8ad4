@@ -76,12 +76,13 @@ sections:
   - type: grid_section
     grid_items:
       - title_align: left
-        content: >
+        content: >+
           ## Personal Blog
 
 
           Check out my personal blog for an insight into my life outside school.
-          Articles on music, cooking and travel
+          Articles on music, cooking and travel.
+
         content_align: left
         actions: []
         actions_align: left
