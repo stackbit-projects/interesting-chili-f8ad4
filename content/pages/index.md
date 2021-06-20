@@ -8,7 +8,7 @@ sections:
       enthusiast who loves learning.
     actions:
       - label: More About Me
-        url: /about me
+        url: /about
         style: primary
     image: /images/kind-cabbage.jpg
     image_alt: A smiling woman
