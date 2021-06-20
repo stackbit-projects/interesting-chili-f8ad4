@@ -26,7 +26,6 @@ sections:
     title: My Articles
     features:
       - title: Technology
-        subtitle: 'Computing, tech reviews and more'
         content: >
           Articles following current trends in the technology industry as well
           as explaining fundamental computer science principles.
