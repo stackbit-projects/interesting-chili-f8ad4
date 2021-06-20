@@ -90,10 +90,9 @@ sections:
         media_width: sixty
       - title: My Projects
         subtitle: Detailed reports
-        content: >-
-          I will dive into the ins and outs of your product or service and make
-          sure the right information is communicated throughout your
-          documentation, pamphlets, manuals and technical documents.
+        content: >
+          Walk-throughs of my previous projects with detailed explanations of my
+          execution. Become inspired and gain insight.
         actions:
           - label: See Past Work
             url: /faq
