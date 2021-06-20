@@ -56,8 +56,9 @@ sections:
         media_width: sixty
       - title: My Projects and Experience
         content: >
-          Walk-throughs of my previous projects with detailed explanations of
-          the execution. Gain insight and become inspired.
+          Walk-throughs of my previous academic projects and experiences with
+          detailed explanations of my execution. Gain insight and become
+          inspired.
         actions:
           - label: See Past Work
             url: /faq
