@@ -91,8 +91,8 @@ sections:
       - title: My Projects
         subtitle: Detailed reports
         content: >
-          Walk-throughs of my previous projects with detailed explanations of my
-          execution. Become inspired and gain insight.
+          Walk-throughs of my previous projects with detailed explanations of
+          the execution. Become inspired and gain insight.
         actions:
           - label: See Past Work
             url: /faq
