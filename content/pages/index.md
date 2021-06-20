@@ -44,7 +44,7 @@ sections:
       - title: Mathematics
         subtitle: Maths outside the curriculum
         content: |
-          Mathematical topics explained with interesting puzzles and solutions
+          Mathematical topics explained with interesting puzzles and solutions.
         actions:
           - label: Learn More
             url: /about
