@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     title: I’m Alex Wang...
     subtitle: >-
-      A Year 12 student at Wilson's School. I am a maths and technology
+      A Sixth Form student at Wilson's School. I am a maths and technology
       enthusiast who loves learning.
     actions:
       - label: More About Me
