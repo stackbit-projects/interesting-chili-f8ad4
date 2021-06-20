@@ -77,15 +77,6 @@ sections:
     title: Testimonials
     grid_items:
       - content: >-
-          Alyvia really understands who our customers are and what tone of voice
-          to use when communicating with them.
-
-
-          **Miles Tone,** *CEO, Studio*
-        image: images/miles-tone.png
-        image_position: left
-        image_width: twenty-five
-      - content: >-
           Working with Alyvia was great because she was well versed in all of
           our tools and applications, and was able to manage our store and
           campaigns without any technical glitches.
