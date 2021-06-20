@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: 'Hi, I’m Alex Wang...'
+    title: I’m Alex Wang...
     subtitle: >-
       A Year 12 student at Wilson's School. I am a maths and technology
       enthusiast who loves learning.
