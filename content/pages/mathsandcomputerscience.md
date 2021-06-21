@@ -24,7 +24,6 @@ sections:
     background_image_repeat: no-repeat
     type: blog_feed_section
     category: content/data/categories/category-b6twnug29.json
-    subtitle: o
 seo:
   title: ''
   description: ''
