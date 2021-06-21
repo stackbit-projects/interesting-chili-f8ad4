@@ -3,7 +3,7 @@ title: My Projects and Experiences
 sections:
   - section_id: lMy Projects and Experiences
     title: My Projects and Experiences
-    subtitle: lorem-ipsum
+    subtitle: lor
     actions: []
     blog_feed_cols: three
     enable_cards: false
