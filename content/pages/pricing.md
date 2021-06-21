@@ -1,5 +1,5 @@
 ---
-title: Pricing
+title: My Projects ann
 sections:
   - type: hero_section
     title: My Projects and Experiences
