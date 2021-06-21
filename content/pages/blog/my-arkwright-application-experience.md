@@ -1,7 +1,8 @@
 ---
 title: My Arkwright Application Experience
 date: '2021-06-21'
-categories: []
+categories:
+  - content/data/categories/general.yaml
 tags: []
 excerpt: lorem-ipsum
 thumb_image_alt: lorem-ipsum
