@@ -1,8 +1,7 @@
 ---
 title: My Arkwright Application Experience
 date: '2021-06-21'
-categories:
-  - content/data/categories/category-7nldoj3ma.json
+categories: []
 tags: []
 excerpt: lorem-ipsum
 thumb_image_alt: lorem-ipsum
