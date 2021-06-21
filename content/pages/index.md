@@ -60,7 +60,7 @@ sections:
           detailed explanations.
         actions:
           - label: See Past Work
-            url: /
+            url: /pricing
             style: primary
             has_icon: true
             icon: arrow-right
