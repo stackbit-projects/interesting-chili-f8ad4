@@ -1,7 +1,8 @@
 ---
 title: Distributed Systems
 date: '2021-06-21'
-categories: []
+categories:
+  - content/data/categories/category-b6twnug29.json
 tags: []
 excerpt: lorem-ipsum
 thumb_image_alt: lorem-ipsum
