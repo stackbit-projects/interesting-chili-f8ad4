@@ -45,7 +45,7 @@ sections:
     background_image_repeat: no-repeat
     type: blog_feed_section
   - type: features_section
-    title: My Articles
+    title: Catergories
     features:
       - title: Technology
         content: >
