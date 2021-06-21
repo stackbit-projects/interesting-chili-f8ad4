@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     title: My Projects and Experiences
     subtitle: >-
-      Walk-throughs of my previous academic projects and
+      Walk-throughs of my academic projects and
 
       experiences with detailed explanations. Gain insight into my academic life
       and
