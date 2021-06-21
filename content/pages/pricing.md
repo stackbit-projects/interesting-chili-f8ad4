@@ -44,7 +44,9 @@ seo:
       value: My Projects and Experiences
       keyName: property
     - name: 'og:description'
-      value: This is the pricing page
+      value: >-
+        Walk-throughs of my academic projects and experiences with detailed
+        explanations. Gain insight into my life at school.
       keyName: property
     - name: 'og:image'
       value: images/about-3.jpg
