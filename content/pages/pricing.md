@@ -34,7 +34,7 @@ sections:
     type: blog_feed_section
     author: content/data/team/person-3nscadf1y.json
 seo:
-  title: Pricing
+  title: My Projects and Experiences
   description: This is the pricing page
   extra:
     - name: 'og:type'
