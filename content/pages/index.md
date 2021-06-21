@@ -92,17 +92,13 @@ sections:
         image_alt: Feature 3 illustration
         media_position: right
         media_width: sixty
-      - content: >
+      - content: >+
           ## My Personal Blog
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          Check out my personal blog for an insight into my life outside school.
+          Articles on music, cooking and travel.
 
-
-          *   Lorem ipsum
-
-          *   dolor sit amet
         actions: []
         image_alt: lorem-ipsum
         media_position: top
