@@ -1,7 +1,7 @@
 ---
 title: Maths and Computer Science
 sections:
-  - section_id: lorem-ipsum
+  - section_id: Maths and Computer Science
     title: lorem-ipsum
     subtitle: lorem-ipsum
     actions: []
