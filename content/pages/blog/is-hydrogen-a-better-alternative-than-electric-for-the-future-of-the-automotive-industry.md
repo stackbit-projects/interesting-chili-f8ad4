@@ -1,5 +1,4 @@
 ---
-subtitle: lorem-ipsum
 date: '2021-06-21'
 categories:
   - content/data/categories/category-cd6v626s5.json
