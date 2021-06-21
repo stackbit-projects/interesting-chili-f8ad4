@@ -2,7 +2,7 @@
 title: Technology
 sections:
   - type: hero_section
-    title: Technology
+    title: Technology News
     subtitle: >-
       Articles following current trends in the technology industry. Get the
       latest tech news about hardware, software and much more. Product reviews
