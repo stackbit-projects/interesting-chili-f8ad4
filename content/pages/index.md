@@ -23,7 +23,7 @@ sections:
     background_image_size: contain
     background_image_opacity: 8
   - type: features_section
-    title: Alex
+    title: My Articles
     features:
       - title: Technology
         content: >
