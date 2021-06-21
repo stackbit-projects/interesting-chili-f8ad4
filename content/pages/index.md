@@ -65,8 +65,9 @@ sections:
         media_position: right
         media_width: fifty
       - title: Mathematics
-        content: |
-          Mathematical topics explained with interesting puzzles and solutions.
+        content: >
+          Fundamental maths and computer science topics explained with
+          interesting puzzles and solutions.
         actions:
           - label: Learn More
             url: /about
