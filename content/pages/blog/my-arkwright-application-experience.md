@@ -14,7 +14,6 @@ seo:
   extra: []
   type: stackbit_page_meta
 layout: post
-author: content/data/team/dianne-ameter.yaml
 ---
 ## ![](https://preview--interesting-chili-f8ad4.stackbit.dev/\_static/app-assets/images/Arkwright%20Graphic.png)What is Arkwright?
 
