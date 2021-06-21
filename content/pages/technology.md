@@ -4,8 +4,9 @@ sections:
   - type: hero_section
     title: Technology
     subtitle: >-
-      Articles following current trends in the technology industry as well as
-      explaining fundamental computer science principles.
+      Articles following current trends in the technology industry. Get the
+      latest tech news about hardware, software and much more. Product reviews
+      coming soon!
     align: center
     padding_top: large
     padding_bottom: small
