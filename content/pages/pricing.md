@@ -15,7 +15,7 @@ sections:
     title: My Arkwright Application Experience
     subtitle: Alex Wang
     actions:
-      - label: lorem-ipsum
+      - label: View
         url: '#'
         style: link
         has_icon: false
