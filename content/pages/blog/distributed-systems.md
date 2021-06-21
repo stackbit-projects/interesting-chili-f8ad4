@@ -1,8 +1,7 @@
 ---
 title: Distributed Systems
 date: '2021-06-21'
-categories:
-  - content/data/categories/general.yaml
+categories: []
 tags: []
 excerpt: lorem-ipsum
 thumb_image_alt: lorem-ipsum
