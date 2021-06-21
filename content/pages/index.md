@@ -62,7 +62,7 @@ sections:
         image: /images/CPU Graphic.jpg
         image_alt: Feature 1 illustration
         media_position: right
-        media_width: sixty
+        media_width: fifty
       - title: Mathematics
         content: |
           Mathematical topics explained with interesting puzzles and solutions.
