@@ -50,8 +50,9 @@ sections:
     features:
       - title: Technology
         content: >
-          Articles following current trends in the technology industry as well
-          as explaining fundamental computer science principles.
+          Articles following current trends in the technology industry. Get the
+          latest tech news about hardware, software and much more. Product
+          reviews coming soon!
         actions:
           - label: View articles
             url: /technology
