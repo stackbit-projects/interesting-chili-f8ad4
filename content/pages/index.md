@@ -92,13 +92,9 @@ sections:
         image_alt: Feature 3 illustration
         media_position: right
         media_width: sixty
-      - content: >+
-          ## My Personal Blog
-
-
+      - content: >
           Check out my personal blog for an insight into my life outside school.
           Articles on music, cooking and travel.
-
         actions:
           - label: Check it out
             url: '#'
