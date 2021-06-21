@@ -100,7 +100,7 @@ sections:
           Articles on music, cooking and travel.
 
         actions:
-          - label: lorem-ipsum
+          - label: Check it out
             url: '#'
             style: primary
             has_icon: true
