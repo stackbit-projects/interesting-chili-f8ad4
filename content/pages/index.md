@@ -141,7 +141,7 @@ sections:
           and university admissions.
         content_align: left
         actions:
-          - label: lorem-ipsum
+          - label: Go to our website
             url: '#'
             style: link
             has_icon: false
