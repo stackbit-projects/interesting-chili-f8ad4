@@ -91,7 +91,7 @@ sections:
         image: /images/code-coding-computer-data-574071-1-scaled.jpg
         image_alt: Feature 3 illustration
         media_position: right
-        media_width: sixty
+        media_width: fifty
       - content: >
           Check out my personal blog for an insight into my life outside school.
           Articles on music, cooking and travel.
