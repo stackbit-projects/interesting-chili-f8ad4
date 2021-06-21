@@ -15,9 +15,18 @@ seo:
   type: stackbit_page_meta
 layout: post
 ---
-## Lorem ipsum
+## What is Arkwright?
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+> An Arkwright Engineering Scholarship is the most esteemed scholarship of its type in the UK, designed to inspire students to pursue their dreams and change the world as a future leader in engineering.
 
-- Lorem ipsum
-- dolor sit amet
+From <https://www.arkwright.org.uk/>
+
+
+
+
+How did I become aware of Arkwright?
+
+
+
+
+I was first introduced to Arkwright by the Physics Department at Wilson's School when I started Year 11. Shortly after, they asked us to pitch an idea of a project which we ![](https://www.google.com/url?sa=i\&url=https%3A%2F%2Fwww.arkwright.org.uk%2Fabout-arkwright%2Fabout-arkwright\&psig=AOvVaw39kyhXu0ITcupUAnyQaNZM\&ust=1624382101244000\&source=images\&cd=vfe\&ved=0CAoQjRxqFwoTCNj3gYSdqfECFQAAAAAdAAAAABAD)
