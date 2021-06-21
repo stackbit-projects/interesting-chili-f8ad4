@@ -31,7 +31,6 @@ sections:
     background_image_repeat: no-repeat
     type: blog_feed_section
     author: content/data/team/person-3nscadf1y.json
-    category: content/data/categories/category-cd6v626s5.json
   - section_id: lorem-ipsum
     actions: []
     blog_feed_cols: three
