@@ -3,7 +3,9 @@ title: My Projects and Experiences
 sections:
   - type: hero_section
     title: Technology
-    subtitle: u
+    subtitle: >-
+      Articles following current trends in the technology industry as well as
+      explaining fundamental computer science principles.
     align: center
     padding_top: large
     padding_bottom: small
