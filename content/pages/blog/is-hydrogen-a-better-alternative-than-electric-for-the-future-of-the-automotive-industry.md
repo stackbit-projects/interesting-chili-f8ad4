@@ -17,6 +17,7 @@ layout: post
 title: >-
   Is hydrogen a better alternative than electric for the future of the
   automotive industry?
+author: content/data/team/person-4zww29c74.json
 ---
 ## Lorem ipsum
 
