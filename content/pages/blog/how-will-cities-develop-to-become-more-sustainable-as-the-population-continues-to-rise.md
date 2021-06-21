@@ -17,6 +17,7 @@ seo:
   type: stackbit_page_meta
 layout: post
 author: content/data/team/person-4zww29c74.json
+thumb_image: /images/EV.jpg
 ---
 Sustainable cities. Affordable and clean energy. Urgent climate action. These are just three of the 17 Sustainable Development Goals which the United Nations set out in 2015 to be achieved by 2030 for the “peace and prosperity for people and the planet, now and into the future” \[1]. Notably, many countries, including the UK, are targeting net-zero carbon emissions by the year 2050. Therefore, how must these countries gradually transition so that we all live in more environmentally-friendly, sustainable
 cities?
