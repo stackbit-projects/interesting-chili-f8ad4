@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Mathematics and computer Science
 sections: []
 seo:
   title: ''
