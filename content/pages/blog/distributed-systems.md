@@ -16,6 +16,7 @@ seo:
   type: stackbit_page_meta
 layout: post
 author: content/data/team/person-1sqlcbe74.json
+thumb_image: /images/polite-primrose.png
 ---
 ## What are distributed systems and why should we care?
 
