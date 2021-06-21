@@ -70,7 +70,7 @@ sections:
           and solutions.
         actions:
           - label: Learn More
-            url: /about
+            url: /mathsandcomputerscience
             style: primary
             has_icon: true
             icon: arrow-right
