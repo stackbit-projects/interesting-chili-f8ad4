@@ -23,9 +23,6 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: blog_feed_section
-    subtitle: >-
-      Walk-throughs of my academic projects and experiences with detailed
-      explanations. Gain insight into my life at school.
     category: content/data/categories/category-7nldoj3ma.json
 seo:
   title: ''
