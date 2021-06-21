@@ -87,7 +87,7 @@ sections:
         actions:
           - label: Check it out
             url: '#'
-            style: link
+            style: primary
             has_icon: false
             icon: arrow-left
             icon_position: right
