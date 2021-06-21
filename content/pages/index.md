@@ -114,6 +114,7 @@ sections:
         media_width: sixty
         align: left
         type: feature
+        image: /images/rainy-squid.jpg
     feature_padding_vert: large
     align: center
     background_color: none
