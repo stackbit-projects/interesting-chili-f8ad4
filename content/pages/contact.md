@@ -3,7 +3,11 @@ title: Contact
 sections:
   - type: hero_section
     title: Tuition
-    subtitle: Fill out the form below and I will get in touch within 1 business day.
+    subtitle: >-
+      I have extensive experience tutoring children Maths and English. i am able
+      to tutor at a KS2, Ks3 and KS4 level. I have helped numerous people with
+      all sorts of requests such as 11+ exams, 13+ exams, UKMT maths challenges
+      and
     align: center
     padding_top: medium
     padding_bottom: medium
