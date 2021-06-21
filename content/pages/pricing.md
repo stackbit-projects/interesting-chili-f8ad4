@@ -35,7 +35,9 @@ sections:
     author: content/data/team/person-3nscadf1y.json
 seo:
   title: My Projects and Experiences
-  description: This is the pricing page
+  description: >
+    Walk-throughs of my academic projects and experiences with detailed
+    explanations. Gain insight into my life at school.
   extra:
     - name: 'og:type'
       value: website
