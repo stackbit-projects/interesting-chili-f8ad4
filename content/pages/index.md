@@ -48,7 +48,7 @@ sections:
   - type: features_section
     title: Catergories
     features:
-      - title: Technology
+      - title: Technology News
         content: >
           Articles following current trends in the technology industry. Get the
           latest tech news about hardware, software and much more. Product
