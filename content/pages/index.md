@@ -46,7 +46,7 @@ sections:
     type: blog_feed_section
     background_image: /images/EV.jpg
   - type: features_section
-    title: Catergories
+    title: Categories
     features:
       - title: Technology News
         content: >
