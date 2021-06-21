@@ -12,7 +12,7 @@ sections:
     padding_top: large
     padding_bottom: small
   - section_id: lorem-ipsum
-    title: lorem-ipsum
+    title: My Arkwright Application Experience
     subtitle: lorem-ipsum
     actions:
       - label: lorem-ipsum
