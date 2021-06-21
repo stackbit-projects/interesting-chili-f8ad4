@@ -4,8 +4,8 @@ sections:
   - type: hero_section
     title: Maths and Computer Science
     subtitle: >-
-      Articles following current trends in the technology industry as well as
-      explaining fundamental computer science principles.
+      Maths and computer science topics explained with interesting puzzles and
+      solutions.
     align: center
     padding_top: large
     padding_bottom: small
