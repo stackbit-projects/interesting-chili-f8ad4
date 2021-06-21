@@ -12,7 +12,6 @@ sections:
     padding_top: large
     padding_bottom: small
   - section_id: lorem-ipsum
-    subtitle: Alex Wang
     actions: []
     blog_feed_cols: three
     enable_cards: true
