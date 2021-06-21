@@ -54,7 +54,7 @@ sections:
           as explaining fundamental computer science principles.
         actions:
           - label: View articles
-            url: /faq
+            url: /technology
             style: primary
             has_icon: true
             icon: arrow-right
