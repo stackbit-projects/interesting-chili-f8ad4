@@ -112,7 +112,7 @@ sections:
           UKMT challenges. Check out my page for more details.
         content_align: left
         actions:
-          - label: gggg
+          - label: Find out more
             url: '#'
             style: link
             has_icon: false
