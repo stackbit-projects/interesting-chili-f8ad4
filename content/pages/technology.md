@@ -1,5 +1,5 @@
 ---
-title: My Projects and Experiences
+title: Technology
 sections:
   - type: hero_section
     title: Technology
