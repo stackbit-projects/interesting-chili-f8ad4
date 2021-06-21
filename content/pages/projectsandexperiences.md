@@ -26,6 +26,7 @@ sections:
     subtitle: >-
       Walk-throughs of my academic projects and experiences with detailed
       explanations. Gain insight into my life at school.
+    category: content/data/categories/category-7nldoj3ma.json
 seo:
   title: ''
   description: ''
