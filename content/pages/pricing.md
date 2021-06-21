@@ -1,5 +1,5 @@
 ---
-title: My Projects ann
+title: My Projects and Experiences
 sections:
   - type: hero_section
     title: My Projects and Experiences
