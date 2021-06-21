@@ -45,7 +45,7 @@
                 "type": "action"
             },
             {
-                "label": "Personal Blog",
+                "label": "Blog",
                 "url": "#",
                 "style": "link",
                 "has_icon": false,
