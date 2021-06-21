@@ -212,7 +212,7 @@ sections:
     background_image_size: contain
     background_image_opacity: 8
   - section_id: Recent Articles
-    title: rec
+    title: Recent Srticles
     subtitle: lorem-ipsum
     actions: []
     blog_feed_cols: three
