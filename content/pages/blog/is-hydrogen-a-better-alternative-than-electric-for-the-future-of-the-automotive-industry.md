@@ -14,6 +14,9 @@ seo:
   extra: []
   type: stackbit_page_meta
 layout: post
+title: >-
+  Is hydrogen a better alternative than electric for the future of the
+  automotive industry?
 ---
 ## Lorem ipsum
 
