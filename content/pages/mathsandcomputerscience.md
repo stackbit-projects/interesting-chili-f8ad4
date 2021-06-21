@@ -1,5 +1,5 @@
 ---
-title: Mathematics and computer Science
+title: Mathematics and Computer Science
 sections: []
 seo:
   title: ''
