@@ -114,7 +114,7 @@ sections:
         title: My Personal Blog
     feature_padding_vert: large
     align: center
-    background_color: secondary
+    background_color: primary
     section_id: /articles
   - type: grid_section
     grid_items:
