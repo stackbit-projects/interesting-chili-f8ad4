@@ -129,7 +129,7 @@ sections:
         content_align: left
         actions:
           - label: Find out more
-            url: tuition
+            url: /tuition
             style: primary
             has_icon: true
             icon: arrow-right
