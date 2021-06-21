@@ -18,6 +18,7 @@ title: >-
   Is hydrogen a better alternative than electric for the future of the
   automotive industry?
 author: content/data/team/person-4zww29c74.json
+thumb_image: /images/futuristic-goat.jpg
 ---
 “In order to have clean air in cities, you have to go electric,” Elon Musk, the CEO of Tesla, once stated in an interview with the CNN when questioned about the future of the automotive industry in China. \[1] However, whilst Tesla is currently leading in the production of sustainable energy vehicles, is electric really the future of automobiles?
 
