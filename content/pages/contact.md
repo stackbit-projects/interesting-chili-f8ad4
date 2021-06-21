@@ -5,9 +5,9 @@ sections:
     title: Tuition
     subtitle: >-
       I have extensive experience tutoring children Maths and English. I am able
-      to tutor at a KS2, KS3 and KS4 level. I have helped clients with all sorts
-      of requests such as 11+ exams, 13+ exams, UKMT maths challenges and C1
-      Advanced English exams.
+      to tutor at a KS2, KS3 and KS4 level. I have helped clients with a wide
+      range of requests such as 11+ exams, 13+ exams, UKMT maths challenges and
+      C1 Advanced English exams.
     align: center
     padding_top: medium
     padding_bottom: medium
