@@ -8,7 +8,4 @@ seo:
   type: stackbit_page_meta
 layout: page
 ---
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-*   Lorem ipsum
-*   dolor sit amet
+Walk-throughs of my previous academic projects and experiences with detailed explanations. Gain insight into my academic life and become inspired.
