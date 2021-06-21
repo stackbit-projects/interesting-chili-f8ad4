@@ -85,7 +85,7 @@ sections:
 
         content_align: left
         actions:
-          - label: lorem-ipsum
+          - label: Check it out
             url: '#'
             style: link
             has_icon: false
