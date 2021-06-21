@@ -15,6 +15,7 @@ seo:
   type: stackbit_page_meta
 layout: post
 author: content/data/team/person-3nscadf1y.json
+thumb_image: /images/kind-mango.png
 ---
 ## ![](https://preview--interesting-chili-f8ad4.stackbit.dev/\_static/app-assets/images/Arkwright%20Graphic.png)What is Arkwright?
 
