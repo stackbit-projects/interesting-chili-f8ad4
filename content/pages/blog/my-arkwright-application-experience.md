@@ -111,8 +111,6 @@ In the second half, the interviewers questioned me about my wider engineering in
 
 *   Show a genuine interest and commitment to a career in engineering
 
-
-
 ## What lays ahead for me?
 
 My Arkwright Application is now fully complete. I will be informed if I have been successful, or not, in securing a Scholarship with Arkwright by the end of September 2021.
@@ -127,10 +125,6 @@ My Arkwright Application is now fully complete. I will be informed if I have bee
 
 <https://www.arkwright.org.uk/downloads/arkwright-documents/handbook.pdf>
 
-The Aptitude Exam is graded and the grade of the Exam and
-the Application is combined to determine who gets allocated an interview.
 
-The Aptitude Exam is graded and the grade of the Exam and
-the Application is combined to determine who gets allocated an interview.
 
 ![](https://www.google.com/url?sa=i\&url=https%3A%2F%2Fwww.arkwright.org.uk%2Fabout-arkwright%2Fabout-arkwright\&psig=AOvVaw39kyhXu0ITcupUAnyQaNZM\&ust=1624382101244000\&source=images\&cd=vfe\&ved=0CAoQjRxqFwoTCNj3gYSdqfECFQAAAAAdAAAAABAD)
