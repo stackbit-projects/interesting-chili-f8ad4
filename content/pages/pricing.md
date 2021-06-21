@@ -13,7 +13,7 @@ sections:
     padding_bottom: small
   - section_id: lorem-ipsum
     title: My Arkwright Application Experience
-    subtitle: lorem-ipsum
+    subtitle: Alex Wang
     actions:
       - label: lorem-ipsum
         url: '#'
