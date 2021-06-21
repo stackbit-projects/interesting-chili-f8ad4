@@ -1,7 +1,8 @@
 ---
 title: Neuromorphic Computing
 date: '2021-06-21'
-categories: []
+categories:
+  - content/data/categories/category-cd6v626s5.json
 tags: []
 excerpt: lorem-ipsum
 thumb_image_alt: lorem-ipsum
