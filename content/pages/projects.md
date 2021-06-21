@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: My Projects and Experiences
 seo:
   title: ''
   description: ''
