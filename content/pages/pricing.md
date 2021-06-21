@@ -6,10 +6,8 @@ sections:
     subtitle: >-
       Walk-throughs of my academic projects and
 
-      experiences with detailed explanations. Gain insight into my academic life
-      and
-
-      become inspired.
+      experiences with detailed explanations. Gain insight into my life at
+      school.
     align: center
     padding_top: large
     padding_bottom: small
