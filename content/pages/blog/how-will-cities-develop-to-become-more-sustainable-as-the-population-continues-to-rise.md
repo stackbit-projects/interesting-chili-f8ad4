@@ -2,7 +2,6 @@
 title: >-
   How will cities develop to become more sustainable as the population continues
   to rise?
-subtitle: lorem-ipsum
 date: '2021-06-21'
 categories: []
 tags: []
