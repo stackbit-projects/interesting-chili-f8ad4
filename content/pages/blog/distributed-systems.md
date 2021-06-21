@@ -14,6 +14,7 @@ seo:
   extra: []
   type: stackbit_page_meta
 layout: post
+author: content/data/team/person-1sqlcbe74.json
 ---
 ## What are distributed systems and why should we care?
 
