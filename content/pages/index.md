@@ -66,8 +66,8 @@ sections:
         media_width: fifty
       - title: Maths and Computer Science
         content: >
-          Fundamental maths and computer science topics explained with
-          interesting puzzles and solutions.
+          Maths and computer science topics explained with interesting puzzles
+          and solutions.
         actions:
           - label: Learn More
             url: /about
