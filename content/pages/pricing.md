@@ -12,7 +12,7 @@ sections:
     padding_top: large
     padding_bottom: small
   - section_id: lorem-ipsum
-    title: lorem-ipsum
+    title: My Arkwright Project - An Alarmed Bike Lock
     subtitle: lorem-ipsum
     actions: []
     blog_feed_cols: three
