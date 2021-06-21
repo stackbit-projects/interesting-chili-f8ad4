@@ -34,6 +34,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: blog_feed_section
+    author: content/data/team/person-3nscadf1y.json
   - section_id: lorem-ipsum
     title: My Arkwright Application Experience
     subtitle: Alex Wang
