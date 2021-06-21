@@ -112,7 +112,7 @@ sections:
           UKMT challenges. Check out my page for more details.
         content_align: left
         actions:
-          - label: erom tuo dniF
+          - label: gggg
             url: '#'
             style: link
             has_icon: false
