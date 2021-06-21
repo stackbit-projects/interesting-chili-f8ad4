@@ -107,7 +107,7 @@ sections:
         image_alt: lorem-ipsum
         media_position: top
         media_width: fifty
-        align: left
+        align: right
         type: feature
     feature_padding_vert: large
     align: center
