@@ -65,15 +65,6 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-          - label: lorem-ipsum
-            url: '#'
-            style: link
-            has_icon: true
-            icon: arrow-left
-            icon_position: right
-            new_window: false
-            no_follow: false
-            type: action
         image: /images/code-coding-computer-data-574071-1-scaled.jpg
         image_alt: Feature 3 illustration
         media_position: right
