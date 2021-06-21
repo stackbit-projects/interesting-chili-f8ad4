@@ -99,7 +99,7 @@ For my interview, I was asked to prepare a presentation with the following speci
 
 *   Information in the form of pictures, graphics and text that demonstrate your wider interests in engineering
 
-I delivered my presentation in the first half of the interview. I had 2 interviewers who questioned my about my project, for example, they asked what materials I used in my construction and why I used them.
+I delivered my presentation in the first half of the interview. I had 2 interviewers who questioned me about my project. For example, they asked what materials I used in my construction and why I used them.
 
 In the second half, the interviewers questioned me about my wider engineering interests. Potential lines of questioning are: why you want to become an engineer, who or what inspired you, why you are interested in your chosen area of engineering, where and what you plan to study as well as what your ideal job would be. They may also ask you what the scholarship would mean to you.
 
@@ -110,6 +110,8 @@ In the second half, the interviewers questioned me about my wider engineering in
 *   Make sure you are knowledgeable about your project and your preferred engineering discipline
 
 *   Show a genuine interest and commitment to a career in engineering
+
+
 
 ## What lays ahead for me?
 
