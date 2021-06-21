@@ -111,7 +111,7 @@ sections:
             type: action
         image_alt: lorem-ipsum
         media_position: top
-        media_width: sixty
+        media_width: thirty-three
         align: left
         type: feature
         image: /images/rainy-squid.jpg
