@@ -64,7 +64,7 @@ sections:
         image_alt: Feature 1 illustration
         media_position: right
         media_width: fifty
-      - title: Mathematics
+      - title: Maths and Computer Science
         content: >
           Fundamental maths and computer science topics explained with
           interesting puzzles and solutions.
