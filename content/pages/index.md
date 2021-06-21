@@ -83,7 +83,7 @@ sections:
           detailed explanations.
         actions:
           - label: See Past Work
-            url: /pricing
+            url: /myprojectsandexperiences
             style: primary
             has_icon: true
             icon: arrow-right
