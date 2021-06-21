@@ -13,7 +13,7 @@ sections:
     padding_bottom: small
   - section_id: lorem-ipsum
     title: My Arkwright Project - An Alarmed Bike Lock
-    subtitle: lorem-ipsum
+    subtitle: Alex Wang
     actions: []
     blog_feed_cols: three
     enable_cards: false
