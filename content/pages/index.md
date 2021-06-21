@@ -112,33 +112,6 @@ sections:
   - type: grid_section
     grid_items:
       - title_align: left
-        content: >+
-          ## Personal Blog
-
-
-          Check out my personal blog for an insight into my life outside school.
-          Articles on music, cooking and travel.
-
-        content_align: left
-        actions:
-          - label: Check it out
-            url: '#'
-            style: primary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
-            new_window: false
-            no_follow: false
-            type: action
-        actions_align: left
-        actions_width: auto
-        image_alt: lorem-ipsum
-        image_position: top
-        image_width: fifty
-        image_align: left
-        image_has_padding: false
-        type: grid_item
-      - title_align: left
         content: >
           ## Tuition
 
