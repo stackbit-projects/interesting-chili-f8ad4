@@ -21,8 +21,6 @@ layout: post
 
 From [https://www.arkwright.org.uk/](https://www.arkwright.org.uk/Who)
 
-
-
 # Who can apply?
 
 *   You must have a strong desire to have a future career as a leader within the Engineering Profession
@@ -52,17 +50,13 @@ As part of the programme, Scholars will:
     activities to optimise their studies towards a career in Engineering
 
 *   Gain access to a wide range of enrichment events and opportunities through The Smallpeice
-    Trust including Connect Days, summer schools and technical lectures. 
+    Trust including Connect Days, summer schools and technical lectures.
 
 *   Receive a dedicated mentor to support them through their Scholarship
-
-
 
 ## How did I become aware of Arkwright?
 
 I was first introduced to Arkwright by the Physics Department at Wilson's School when I started Year 11. Shortly after, they asked us to pitch an idea of a project which we would plan to submit to Arkwright. I pitched my project idea of an alarmed bike lock and explained why I was a suitable candidate. All students from Year 11 were nominated by the school to apply.
-
-
 
 ## My online application
 
@@ -70,17 +64,15 @@ From 15/12/20, I had to prepare my project (more details given in a future artic
 
 The Arkwright Online Application Form has 4 main sections
 
-1.  **Beyond School/College: **This requires you to explain your preferred discipline of engineering, what inspired you and your career aspirations.
+1.  **Beyond School**: This requires you to explain your preferred discipline of engineering, what inspired you and your career aspirations.
 
 2.  **STEM Project:** This requires you to write up a detailed report of your project which displays aptitude in your chosen discipline of engineering.
 
-3.  **Engineering Interests:** This requires you to give details of any current or recent interests, activities, hobbies or projects that you have participated in which     demonstrate your engineering interests.
+3.  **Engineering Interests:** This requires you to give details of any current or recent interests, activities, hobbies or projects that you have participated in which    demonstrate your engineering interests.
 
 4.  **Leadership Skills:** This requires you to provide examples of where you have shown leadership, e.g. mentoring, DofE, volunteering.
 
 Your application will be marked out of 50 marks and will determine whether you are allocated an interview. For more help with this, see my linked resources at the bottom of the article which includes a guide, an admissions form and example projects with examiner feedback.
-
-
 
 ## Arkwright Aptitude Exam
 
@@ -93,8 +85,6 @@ I strongly advise applicants to have a look at past papers to prepare for the qu
 
 The Aptitude Exam is graded and the grade of the Exam and the Application is combined to determine who gets allocated an interview.
 
-
-
 ## My interview
 
 In normal circumstances, Arkwright interviews would be held at a university. However, due to the pandemic, my interview was held online via Microsoft Teams on 26/04/21. Roughly 600 students progressed to the interview stage.
@@ -103,11 +93,11 @@ For my interview, I was asked to prepare a presentation with the following speci
 
 *   Details of what the STEM project you talked about in your application
 
-*   Information in the form of pictures, graphics and text that helps to explain the project to the interviewers 
+*   Information in the form of pictures, graphics and text that helps to explain the project to the interviewers
 
 *   Images of the project as it is now showing any progression since you wrote about it in the application
 
-*   Information in the form of pictures, graphics and text that demonstrate your wider interests in engineering 
+*   Information in the form of pictures, graphics and text that demonstrate your wider interests in engineering
 
 I delivered my presentation in the first half of the interview. I had 2 interviewers who questioned my about my project, for example, they asked what materials I used in my construction and why I used them.
 
@@ -121,11 +111,9 @@ In the second half, the interviewers questioned me about my wider engineering in
 
 *   Show a genuine interest and commitment to a career in engineering
 
-
-
 ## What lays ahead for me?
 
-My Arkwright Application is now fully complete. I will be informed if I have been successful, or not, in securing a Scholarship with Arkwright by the end of September 2021. 
+My Arkwright Application is now fully complete. I will be informed if I have been successful, or not, in securing a Scholarship with Arkwright by the end of September 2021.
 
 ## &#xA;Resources
 
@@ -137,54 +125,10 @@ My Arkwright Application is now fully complete. I will be informed if I have bee
 
 <https://www.arkwright.org.uk/downloads/arkwright-documents/handbook.pdf>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 The Aptitude Exam is graded and the grade of the Exam and
 the Application is combined to determine who gets allocated an interview.
 
 The Aptitude Exam is graded and the grade of the Exam and
 the Application is combined to determine who gets allocated an interview.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
- ![](https://www.google.com/url?sa=i\&url=https%3A%2F%2Fwww.arkwright.org.uk%2Fabout-arkwright%2Fabout-arkwright\&psig=AOvVaw39kyhXu0ITcupUAnyQaNZM\&ust=1624382101244000\&source=images\&cd=vfe\&ved=0CAoQjRxqFwoTCNj3gYSdqfECFQAAAAAdAAAAABAD)
+![](https://www.google.com/url?sa=i\&url=https%3A%2F%2Fwww.arkwright.org.uk%2Fabout-arkwright%2Fabout-arkwright\&psig=AOvVaw39kyhXu0ITcupUAnyQaNZM\&ust=1624382101244000\&source=images\&cd=vfe\&ved=0CAoQjRxqFwoTCNj3gYSdqfECFQAAAAAdAAAAABAD)
