@@ -92,17 +92,17 @@ sections:
         image_alt: Feature 3 illustration
         media_position: right
         media_width: sixty
-      - content: >-
-          ## Lorem ipsum
+      - content: >
+          ## My Personal Blog
 
 
           Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
           eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 
-          - Lorem ipsum
+          *   Lorem ipsum
 
-          - dolor sit amet
+          *   dolor sit amet
         actions: []
         image_alt: lorem-ipsum
         media_position: top
