@@ -18,7 +18,7 @@ sections:
       - label: View
         url: '#'
         style: primary
-        has_icon: true
+        has_icon: false
         icon: arrow-left
         icon_position: right
         new_window: false
