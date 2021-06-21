@@ -1,7 +1,7 @@
 ---
 title: My Projects and Experiences
 sections:
-  - section_id: loMy Projects and Experiences
+  - section_id: lMy Projects and Experiences
     title: My Projects and Experiences
     subtitle: lorem-ipsum
     actions: []
