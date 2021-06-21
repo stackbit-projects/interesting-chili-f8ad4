@@ -44,7 +44,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: blog_feed_section
-    background_image: /images/watercolor.png
+    background_image: /images/EV.jpg
   - type: features_section
     title: Catergories
     features:
