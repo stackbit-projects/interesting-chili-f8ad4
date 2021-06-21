@@ -2,7 +2,7 @@
 title: Maths and Computer Science
 sections:
   - section_id: Maths and Computer Science
-    title: lorem-ipsum
+    title: Maths and Computer Science
     subtitle: lorem-ipsum
     actions: []
     blog_feed_cols: three
