@@ -76,7 +76,7 @@ sections:
         image: /images/Math beauty.jpg
         image_alt: Feature 2 illustration
         media_position: left
-        media_width: sixty
+        media_width: fifty
       - title: My Projects and Experiences
         content: >
           Walk-throughs of my previous academic projects and experiences with
