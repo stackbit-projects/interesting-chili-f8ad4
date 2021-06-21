@@ -75,7 +75,7 @@ sections:
             icon_position: right
         image: /images/Math beauty.jpg
         image_alt: Feature 2 illustration
-        media_position: right
+        media_position: left
         media_width: sixty
       - title: My Projects and Experiences
         content: >
