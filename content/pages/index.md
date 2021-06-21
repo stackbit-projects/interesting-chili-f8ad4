@@ -116,12 +116,11 @@ sections:
           ## The Philomath Club
 
 
-
-          The Philomath Club is a community for students who love learning and
-          increasing their knowledge of mathematics, computer science and
-          engineering. We provide free curriculum-linked resources of a Post-16
-          level to help with exams, extra-curricular competitions and university
-          admissions.
+          The Philomath Club is a community which I co-founded for students who
+          love learning and increasing their knowledge of mathematics, computer
+          science and engineering. We provide free curriculum-linked resources
+          of a Post-16 level to help with exams, extra-curricular competitions
+          and university admissions.
         content_align: left
         actions: []
         actions_align: left
