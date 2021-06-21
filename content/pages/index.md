@@ -114,7 +114,6 @@ sections:
         media_width: sixty
         align: left
         type: feature
-        image: /images/Wisley GC Lake.jpg
     feature_padding_vert: large
     align: center
     background_color: none
