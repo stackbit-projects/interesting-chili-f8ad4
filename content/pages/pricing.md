@@ -41,7 +41,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Pricing
+      value: My Projects and Experiences
       keyName: property
     - name: 'og:description'
       value: This is the pricing page
